@@ -1,6 +1,5 @@
 # learn
 
-a project to learn version control
+a sample Python project for learning version control and basic project setup.
 
-#项目介绍
-这是一个用于学习版本控制的项目
+   ```
